@@ -2,3 +2,19 @@
 streamlit
 numpy
 pandas
+folium_static
+folium
+geopandas
+seaborn
+date
+datetime
+holidays
+scipy.stats 
+MinMaxScaler
+import matplotlib.dates as mdates
+DateFormatter
+YearLocator
+MonthLocator
+matplotlib
+import rc
+Image
