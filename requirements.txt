@@ -9,9 +9,7 @@ seaborn
 date
 datetime
 holidays
-scipy.stats 
 MinMaxScaler
-import matplotlib.dates as mdates
 DateFormatter
 YearLocator
 MonthLocator
